@@ -1,0 +1,49 @@
+.navbar-custom {
+    background-color: #4CAF50;
+
+}
+.nav-link {
+    color: white;
+    font-size:19px;
+    }
+.navbar-brand{
+    color: white;
+    font-size:25px;
+}
+
+.navbar {
+    min-height: 80px;
+  }
+  
+#btn{
+    background-color: black;
+    color:blanchedalmond;
+    margin: 0 15px 0;
+}
+img{
+    width: 17px;
+    height:17px;
+    margin: 5px;
+
+
+}
+.img2{
+    width: 72px;
+    height:72px;
+
+
+
+}
+.dropdown-menu > a{
+	display: block;
+	padding: 15px 20px;
+	color: #353535;
+
+
+}
+.dropdown-toggle{
+    color:white;
+}
+.container{
+    width: 100%;
+}

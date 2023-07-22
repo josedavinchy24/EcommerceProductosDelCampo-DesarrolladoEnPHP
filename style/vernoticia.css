@@ -1,0 +1,45 @@
+.filtro2{
+   
+  width: 95%;
+  border: solid rgba(209, 205, 205, 0.616);
+  margin: 10px auto ; 
+  background: #ffffff;
+  
+
+}
+.titulo{
+text-align: center; 
+padding: 13px 0;  
+}
+body {
+  background: url('../assets/paisaje.jpg') no-repeat center center fixed;
+  background-size:cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+.contenido{
+    padding: 2% 5%;
+}
+.imagen{
+   width: 40%;
+   height: 17%;
+   margin: 0 auto;
+}
+label{
+    font-size: 20px;
+}
+.btn {
+  text-transform: uppercase;
+  outline: 0;
+  background-color: #43A047;
+  width: 20%;
+  border: 0;
+  padding: 15px;
+  color: #ffffff;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  
+}
